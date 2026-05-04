@@ -1,16 +1,36 @@
-# Hi, I'm Shraddha
+<!-- visitor counter -->
+![Profile views](https://komarev.com/ghpvc/?username=Shraddhameduri&color=blue&style=flat-square&label=Profile+views)
 
-I’m a Computer Science graduate and software developer with a strong interest in building practical, real-world applications.
+# Hi, I'm Shraddha 👋
 
-I enjoy working at the intersection of full-stack development and AI. Recently, I’ve been exploring LLMs, RAG systems, and tools like LangChain, focusing on how they can be used to build smarter and more useful applications.
+<!-- open to work banner -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
+</p>
 
-On the full-stack side, I’ve worked with Java, Spring Boot, and Angular to develop scalable web applications and APIs.
+Software engineer building full-stack web apps and AI-powered tools...
 
-Interests: AI/ML, LLMs, RAG, Full-Stack Development  
-Currently exploring: AI agents, LangChain, and production use cases of LLMs  
-Goal: Build reliable, intelligent systems that solve meaningful problems
+## What I work with
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+<!-- ...rest of badges -->
 
-I like learning by building and continuously improving through hands-on experience.
+## Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shraddhameduri&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddhameduri&layout=compact&hide_border=true&theme=default" height="160"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shraddhameduri&hide_border=true&mode=weekly" />
+</p>
+
+## Projects I'm proud of
+<!-- pin cards here -->
+
+## Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shraddhameduri/Shraddhameduri/output/github-contribution-grid-snake.svg" />
+</p>
 <!--
 **Shraddhameduri/Shraddhameduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
