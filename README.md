@@ -1,37 +1,51 @@
-<!-- visitor counter -->
-![Profile views](https://komarev.com/ghpvc/?username=Shraddhameduri&color=blue&style=flat-square&label=Profile+views)
-
 # Hi, I'm Shraddha 👋
 
-<!-- open to work banner -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge" />
-</p>
+Software engineer building full-stack web apps and AI-powered tools. I care about clean architecture, useful interfaces, and shipping things that actually work.
 
-Software engineer building full-stack web apps and AI-powered tools...
+🟢 **Open to full-time software engineering roles**
+
+---
 
 ## What I work with
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-<!-- ...rest of badges -->
 
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shraddhameduri&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddhameduri&layout=compact&hide_border=true&theme=default" height="160"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shraddhameduri&hide_border=true&mode=weekly" />
-</p>
+`Java` `Spring Boot` `Angular` `TypeScript` `Python` `LangChain` `SQL`
+
+On the backend I mostly live in Java and Spring Boot — REST APIs, data models, service layers. On the frontend it's Angular and TypeScript. Lately I've been building with Python and LangChain to add AI capabilities on top of traditional stacks.
+
+---
 
 ## Projects I'm proud of
-<!-- pin cards here -->
 
-## Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Shraddhameduri/Shraddhameduri/output/github-contribution-grid-snake.svg" />
-</p>
-<!--
+**[RAG Assistant](https://github.com/Shraddhameduri/rag-assistant)**
+A document Q&A app that lets you chat with your own files using retrieval-augmented generation. Built from scratch — chunking, embeddings, vector search, and response generation.
+`Python` · `LangChain` · `OpenAI`
+
+**[Wells Fargo Counselor](https://github.com/Shraddhameduri/wells-fargo-counselor)**
+A financial advisory tool built with Spring Boot. Implements a full data model with counselor–client relationships, account management, and REST endpoints.
+`Spring Boot` · `Java` · `SQL`
+
+**[Figma to HTML](https://github.com/Shraddhameduri/figma-to-html)**
+Converts Figma design files into clean HTML/CSS output — bridging the gap between designers and developers.
+`JavaScript` · `Figma API`
+
+**[Journey Builder](https://github.com/Shraddhameduri/journey-builder)**
+A TypeScript app for building and visualizing multi-step user journeys. Clean UI, composable logic.
+`TypeScript` · `Angular`
+
+---
+
+## What I'm building now
+
+Exploring AI agents and production LLM patterns — specifically how to make them reliable enough to actually deploy. I'm interested in the gap between "it works in a notebook" and "it works in production."
+
+---
+
+## Let's talk
+
+I'm actively looking for full-time roles in software engineering. Reach out if you're hiring or want to collaborate.
+
+📎 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)
+📬 your-email@example.com
 **Shraddhameduri/Shraddhameduri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
